@@ -1,0 +1,35 @@
+{
+  "lastUpdated": "2026-05-04T13:35:00Z",
+  "apps": [
+    {
+      "id": 1,
+      "name": "Spotify Premium",
+      "category": "موسيقى",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+      "downloadUrl": "https://example.com/apps/spotify-premium.apk",
+      "description": "تطبيق سبوتيفاي بريميوم مهكر مع جميع المميزات المدفوعة مجاناً، بدون إعلانات وتخطي غير محدود",
+      "size": "35.2 MB",
+      "version": "8.9.42"
+    },
+    {
+      "id": 2,
+      "name": "YouTube Vanced",
+      "category": "فيديو",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
+      "downloadUrl": "https://example.com/apps/youtube-vanced.apk",
+      "description": "يوتيوب بدون إعلانات مع خاصية التشغيل في الخلفية وتخطي الفيديوهات المدمجة",
+      "size": "98.5 MB",
+      "version": "18.45.43"
+    },
+    {
+      "id": 3,
+      "name": "Canva Pro",
+      "category": "تصميم",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
+      "downloadUrl": "https://example.com/apps/canva-pro.apk",
+      "description": "كانفا برو مهكر مع آلاف القوالب والصور والخطوط المدفوعة مجاناً بدون علامة مائية",
+      "size": "42.8 MB",
+      "version": "2.247.0"
+    }
+  ]
+}
