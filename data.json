@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-05-04T16:08:51.745Z",
+  "lastUpdated": "2026-05-08T12:40:34.563Z",
   "apps": [
+    {
+      "id": 1778244034561,
+      "name": "Scron",
+      "category": "أدوات",
+      "size": "6.8 MB",
+      "iconUrl": "https://netflix.com",
+      "downloadUrl": "https://netflix.com",
+      "version": "1.0",
+      "description": "تنزيل تطبيقات مهكرة مجاناً"
+    },
     {
       "id": 1777910931745,
       "name": "Kdjdxn",
